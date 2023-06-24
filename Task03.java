@@ -4,7 +4,7 @@ import java.io.IOException;
 
 public class Task03 {
     public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new FileReader("out/numbers.txt"));
+        BufferedReader br = new BufferedReader(new FileReader("numbers.txt"));
         String line;
         Integer number;
         Integer sum = 0;
