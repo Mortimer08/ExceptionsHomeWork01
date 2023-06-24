@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32bdd1c5-7aff-4e69-a562-6b5aeecc2651" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/Task01.java" afterDir="false" />
+    <list default="true" id="32bdd1c5-7aff-4e69-a562-6b5aeecc2651" name="Changes" comment="Task01 Done">
+      <change afterPath="$PROJECT_DIR$/Task02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -39,7 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Task02">
     <configuration name="Task01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task01" />
       <module name="Exceptions_HomeWork_01" />
@@ -47,8 +53,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task02" />
+      <module name="Exceptions_HomeWork_01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task02" />
         <item itemvalue="Application.Task01" />
       </list>
     </recent_temporary>
@@ -69,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687621146641</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Task">
+      <created>1687621224011</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687621224011</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +106,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Task01 Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task01 Done" />
   </component>
 </project>
